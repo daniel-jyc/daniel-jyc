@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://noctowlj.wixsite.com/danielji](https://noctowlj.wixsite.com/danielji)
 
-- ⚡ Fun fact **I've been a Chelsea fan since 2012, and so far it is my longest commit**
+- ⚡ Fun fact **I've been a Chelsea fan since 2012, and I'm good at handling all the ups and downs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
