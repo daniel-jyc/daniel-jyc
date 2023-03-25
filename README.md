@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Ji</h1>
 <h3 align="center">A passionate data science student focused on details and insights behind data</h3>
 
-- 🔭 I’m currently studying **M.S. in Analytics** at **University of Chicago**
+- 🔭 I’m currently studying **M.S. in Analytics at University of Chicago**
 
 - 🌱 I’m currently learning **Natural Language Processing and Deep Learning**
 
@@ -9,11 +9,11 @@
 
 - 📄 Know about my experiences [https://noctowlj.wixsite.com/danielji](https://noctowlj.wixsite.com/danielji)
 
-- ⚡ Fun fact **I've been a Chelsea fan since 2012, and I'm good at handling all the ups and downs**
+- ⚡ Fun fact **I've been a Chelsea fan since 2012, and I'm good at handling all the ups and downs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yuancheng-ji-a0ba92167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuancheng-ji/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yuancheng-ji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuancheng-ji/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/dji030/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dji030/" height="30" width="40" /></a>
 </p>
 
