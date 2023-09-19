@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Ji</h1>
 <h3 align="center">A passionate data science student focused on details and insights behind data</h3>
 
-- 🔭 I’m currently studying **M.S. in Analytics at University of Chicago**
+- 🔭 I’m currently studying **M.S. in Applied Data Science at University of Chicago**
 
-- 🌱 I’m currently learning **Natural Language Processing and Deep Learning**
+- 🌱 I’m currently learning **Deep Learning and Machine Learning Operations**
 
 - 📫 How to reach me **danieljyc99@gmail.com**
 
