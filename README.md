@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://noctowlj.wixsite.com/danielji](https://noctowlj.wixsite.com/danielji)
 
-- ⚡ Fun fact **I've been a Chelsea fan since 2012, and I'm good at handling all the ups and downs.**
+- ⚡ Fun fact **During high school, the two subjects I was not good at are Economics and Statistics. Part of my major during undergrad is Economics, and now I'm pursuing a graduate degree in data science.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
