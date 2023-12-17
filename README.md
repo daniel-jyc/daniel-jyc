@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Ji</h1>
 <h3 align="center">A passionate data science student focused on details and insights behind data</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-jyc&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-jyc" /> </p>
+
 - 🔭 I’m currently studying **M.S. in Applied Data Science at University of Chicago**
 
 - 🌱 I’m currently learning **Deep Learning and Machine Learning Operations**
